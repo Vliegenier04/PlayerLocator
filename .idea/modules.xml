@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PlayerLocator.iml" filepath="$PROJECT_DIR$/PlayerLocator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PlayerLocator_api.iml" filepath="$PROJECT_DIR$/.idea/modules/PlayerLocator_api.iml" group="PlayerLocator" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PlayerLocator_main.iml" filepath="$PROJECT_DIR$/.idea/modules/PlayerLocator_main.iml" group="PlayerLocator" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PlayerLocator_test.iml" filepath="$PROJECT_DIR$/.idea/modules/PlayerLocator_test.iml" group="PlayerLocator" />
+    </modules>
+  </component>
+</project>

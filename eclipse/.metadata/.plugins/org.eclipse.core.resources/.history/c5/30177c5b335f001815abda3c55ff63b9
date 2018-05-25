@@ -1,0 +1,40 @@
+package vliegenier04.playerLocator.main.util;
+
+public final class Names {
+		public static final class Config {
+			
+			
+			
+			}
+		public static final class Gui {
+			public static final class Load {
+				public static final String LOAD_SONG = "loadSong";
+				public static final String LOAD_SONG_DESC = "Load a song or audiofile into the database";
+				public static final String LOAD_AREA = "loadArea";
+				public static final String LOAD_AREA_DESC = "Load an area into your PlayerLocator";
+				
+				
+			}
+			public static final class Control {
+				public static final String POSITIONX = "positionX";
+				public static final String POSITIONX_DESC = "Set the X position";
+				public static final String POSITIONY = "positionY";
+				public static final String POSITIONY_DESC = "Set the Y position";
+				public static final String POINT_BLACK = "PLMain.gui.point.black";
+				public static final String POINT_WHITE = "PLMain.gui.point.black";
+				public static final String SAVE = "PLMain.gui.save";
+				public static final String SAVE_SELECTION = "PLMain.gui.saveselection";
+				public static final String MODE_ALL = "PLMain.gui.all";
+				public static final String MODE_LAYERS = "PLMain.gui.layers";
+				
+				
+						}
+			public static final String X = "PLMain.gui.x";
+			public static final String Y = "PLMain.gui.y";
+		}
+		public static final class Extensions {
+			public static final String PLAYERLOC = ".playerlocator";
+			
+		}
+		}
+

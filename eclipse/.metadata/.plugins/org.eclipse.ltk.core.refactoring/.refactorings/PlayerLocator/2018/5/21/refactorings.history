@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;vliegenier04.playerLocator.main.client.renderer.chunk.ChunkProviderPlL.java&apos; to &apos;ChunkProviderPL.java&apos;&#x0D;&#x0A;- Original project: &apos;PlayerLocator&apos;&#x0D;&#x0A;- Original element: &apos;vliegenier04.playerLocator.main.client.renderer.chunk.ChunkProviderPlL.java&apos;&#x0D;&#x0A;- Renamed element: &apos;vliegenier04.playerLocator.main.client.renderer.chunk.ChunkProviderPL.java&apos;" description="Rename compilation unit &apos;ChunkProviderPlL.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java&lt;vliegenier04.playerLocator.main.client.renderer.chunk{ChunkProviderPlL.java" name="ChunkProviderPL.java" references="false" stamp="1527084739578" version="1.0"/>
+</session>

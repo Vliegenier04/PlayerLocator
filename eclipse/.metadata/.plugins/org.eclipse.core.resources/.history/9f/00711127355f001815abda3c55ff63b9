@@ -1,0 +1,5 @@
+package vliegenier04.playerLocator.main.network.message;
+
+public class MessageCapabilities {
+
+}

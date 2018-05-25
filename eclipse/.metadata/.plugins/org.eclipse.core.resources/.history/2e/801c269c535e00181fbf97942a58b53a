@@ -1,0 +1,5 @@
+package vliegenier04.playerLocator.main.api;
+
+public class IPlayerLocator {
+
+}
